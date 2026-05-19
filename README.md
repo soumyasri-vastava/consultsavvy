@@ -90,7 +90,7 @@ communication, and final deliverables.
 
 ## Author
 
-Soumyasri Vastava
+Soumya Srivastava
 MCA Final Year | 2024-2026
 
 ---
