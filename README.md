@@ -77,6 +77,16 @@ processing, pattern recognition, and report drafting — while human
 consultants retain full control over strategic decisions, client 
 communication, and final deliverables.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Dashboard-2
+![Dashboard2](Dashboard2.png)
+
+### Landing Page
+![Landing Page](Landing Page.png)
 ## Future Scope
 
 - Database integration for persistent client session history
